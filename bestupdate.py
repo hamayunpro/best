@@ -79,7 +79,7 @@ logo = """
                      88   8D 88.     db   8D    88    
                      Y8888P' Y88888P `8888Y'    YP    
                                   
-                       EVERYTHING IS POSSIBLE TO ME            
+                     EVERYTHING IS POSSIBLE TO ME            
 
                              
                                                                                                                                            
